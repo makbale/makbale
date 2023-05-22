@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>My name is Cepheus Fantaye<h1>
-
-![Cepheus](https://github.com/path-to-profile-image)
+<h2>My name is Cepheus Fantaye</h2>
 
 Welcome to my GitHub profile! I'm Cepheus, a curious developer with a passion for innovation and problem-solving. I believe in the transformative power of technology to shape a better future.
 
@@ -36,13 +34,10 @@ I have been honing my coding skills for several years, exploring various program
 
 Here are a few notable projects I've worked on:
 
-- **Project 1:** An e-commerce platform built with React and integrated with a robust back-end, allowing users to browse products, add them to the cart, and complete secure transactions.
+- **Hotel Managment System:** An e-commerce platform built with React and integrated with a robust back-end, allowing users to browse products, add them to the cart, and complete secure transactions.
 
-- **Project 2:** A chatbot powered by natural language processing, capable of answering customer queries and providing personalized recommendations. Developed using Python and the Rasa framework.
 
-- **Project 3:** A cross-platform mobile app that connects users with local volunteering opportunities and allows them to contribute to social causes. Developed using Flutter and Firebase.
-
-To explore more of my projects and contributions, please visit my [portfolio](https://portfolio-link).
+To explore more of my projects and contributions, please visit my [portfolio](https://makbale.github.io).
 
 ## Get in Touch
 
