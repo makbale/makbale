@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm Cepheus, a curious developer with a passion for innovation and problem-solving. I believe in the transformative power of technology to shape a better future.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ds47x&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=makbale&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## About Me
 
